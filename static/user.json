@@ -1,0 +1,12 @@
+{
+    "1871111111":{
+        "name":"一个苹果",
+        "img":"../static/img/u1.png",
+        "shop":{
+            "img":"../static/img/u1.png",
+            "name":"韩版真丝上衣",
+            "money":"315",
+            "num":"1"
+        }
+    }
+}
